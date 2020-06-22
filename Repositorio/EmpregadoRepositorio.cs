@@ -18,7 +18,7 @@ namespace teste_aula_13.Repositorio
         {
             Conexao = conexao;
         }
-
+           
         //Salvar um empregado no banco de dados
         public void Salvar(Model.Empregado empregado)
         {
